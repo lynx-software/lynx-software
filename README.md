@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @viridis-lyncis
+- 👋 Hi, I’m Lynx
 - 👀 I’m interested in web development and mobile app development
 - 🌱 I’m currently learning javascript and dart/flutter
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lynx
 - 👀 I’m interested in web development, mobile app development, and C++
-- 🌱 I’m currently learning Javascript and Python, and always seeking to improve with C++
+- 🌱 I have experience using C++, Python, and Javascript
 
 <!---
 viridis-lyncis/viridis-lyncis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

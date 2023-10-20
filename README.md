@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lynx (they/them)
+- 👋 Hi, I’m Lynx
 - 👀 I’m interested in web development, mobile app development, and C++
 - 🌱 I’m currently learning Javascript and Python, and always seeking to improve with C++
 
